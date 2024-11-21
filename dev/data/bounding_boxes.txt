@@ -1,0 +1,28 @@
+
+Đặt các phép toán sau
+**Số lượng các phép toán theo kiểu:**
+
+1. **Các phép toán đơn giản** (70 phép):
+   - Phân số (10 phép): Ví dụ: \( \frac{34}{5} = 31 \)
+   - Phép chia (10 phép): Ví dụ: \( 20 \div 5 = 4 \)
+   - Phép cộng (15 phép): Ví dụ: \( 8 + 7 = 15 \)
+   - Phép trừ (15 phép): Ví dụ: \( 12 - 3 = 9 \)
+   - Phép nhân (15 phép): Ví dụ: \( 6 \times 3 = 18 \)
+   - Phép mũ (5 phép): Ví dụ: \( 2^3 = 8 \)
+
+2. **Các phép toán phức tạp** (30 phép):
+   - Phép toán với các số lớn hoặc các phép tính kết hợp (10 phép): Ví dụ: \( 45 \div 5 + 6 \)
+   - Phép toán với các căn bậc (5 phép): Ví dụ: \( \sqrt{144} = 12 \)
+   - Phép toán chứa dấu "=" nhưng chưa có kết quả (5 phép): Ví dụ: \( 3^4 + 7 = \)
+   - Phép toán với các biểu thức phức tạp hơn (5 phép): Ví dụ: \( (2 + 3) \times 6 - 8 \)
+
+3. **Phép gán giá trị với biến** (10 phép):
+   - Gán giá trị cho biến \( x \) hoặc các phép toán sử dụng biến. Ví dụ:
+     - \( x = 5 \)
+     - \( x + 3 = \)
+     - \( y = x \times 2 \)
+     - \( a = 7, b = a + 2 \)
+     - \( z = x^2 + 3 \)
+4. Các phép toán trống ( 20 phép )
+39 + 30/15 = 
+....
