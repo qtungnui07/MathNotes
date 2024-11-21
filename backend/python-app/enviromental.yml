@@ -1,0 +1,11 @@
+name: myenv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch-lightning=1.4.9
+  - torchmetrics=0.6.0
+  - python=3.8  # Hoặc phiên bản Python mày muốn
+  - pip
+  - pip:
+  
